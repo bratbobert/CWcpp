@@ -7,3 +7,4 @@
 - [CW 22.01.2024](CW/22.01.2024) - OOP HW explanation
 - [CW 24.01.2024](CW/24.01.2024) - OOP CW copy constructor and operator
 - [CW 26.01.2024](CW/26.01.2024) - OOP CW GroupStudentsClass
+- [CW 29.01.2024](CW/29.01.2024) - OOP MarksSt methods/copy
