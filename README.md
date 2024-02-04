@@ -8,3 +8,4 @@
 - [CW 24.01.2024](CW/24.01.2024) - OOP CW copy constructor and operator
 - [CW 26.01.2024](CW/26.01.2024) - OOP CW GroupStudentsClass
 - [CW 29.01.2024](CW/29.01.2024) - OOP MarksSt methods/copy
+- [CW 02.02.2024](CW/02.02.2024) - OOP inheritance 
