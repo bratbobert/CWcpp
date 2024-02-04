@@ -5,7 +5,7 @@ class Auto {
 private:
 	string color;
 	string model;
-	int volume;
+	float volume;
 	int cost;
 public:
 	Auto(string color, string model, float volume, int cost) {
