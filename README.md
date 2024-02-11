@@ -11,3 +11,4 @@
 - [CW 29.01.2024](CW/29.01.2024) - OOP MarksSt methods/copy
 - [CW 02.02.2024](CW/02.02.2024) - OOP inheritance 
 - [CW 05.02.2024](CW/05.02.2024) - OOP array anything
+- [CW 07.02.2024](CW/07.02.2024) - OOP Class Journal
